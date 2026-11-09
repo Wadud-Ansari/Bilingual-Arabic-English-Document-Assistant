@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+# Source documents and derived index are not redistributed; rebuild with rag.ingest
+data/*.pdf
+index/

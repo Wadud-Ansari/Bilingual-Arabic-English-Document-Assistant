@@ -1,0 +1,11 @@
+# Core pipeline
+sentence-transformers
+rank_bm25
+numpy
+pypdf
+# Generation
+transformers
+accelerate
+huggingface_hub
+# Only needed for 4-bit local generation on a CUDA GPU
+bitsandbytes

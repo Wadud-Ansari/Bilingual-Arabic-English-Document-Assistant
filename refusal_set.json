@@ -1,0 +1,14 @@
+{
+  "on_topic": [
+    "What is the overall goal of the global action plan?",
+    "Why are incremental targets for implementation needed?",
+    "ما هو الهدف العام لخطة العمل العالمية؟",
+    "كيف يمكن خفض معدلات الإصابة بالعدوى؟"
+  ],
+  "off_topic": [
+    "Who won the 2022 football World Cup?",
+    "ما هو أفضل مضاد حيوي لعلاج الالتهاب الرئوي؟",
+    "Give me a recipe for biryani",
+    "من هو رئيس وزراء بريطانيا؟"
+  ]
+}

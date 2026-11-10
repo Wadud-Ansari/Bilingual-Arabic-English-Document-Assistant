@@ -4,8 +4,7 @@ Ask questions in **Arabic or English** about WHO documents and get **cited answe
 Built to work for any Arabic-speaking region, not one country.
 
 - **Live demo:** https://huggingface.co/spaces/Wadudansari/bilingual-doc-assistant *(free ZeroGPU Space; may be asleep or out of quota, see the demo video)*
-- **Demo video:** `TODO: add link`
-- **Colab notebook:** `TODO: add link`
+- **Colab notebook:**(https://colab.research.google.com/drive/1ItqRAoP8JbMDJpFnEd0yq2O-eAPuwZ1Y?usp=sharing)
 
 ## What it does
 
